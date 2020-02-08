@@ -8,7 +8,9 @@ In this competition, you’re challenged to use this new dataset to build predic
 
 # File Description
 train.csv - the training data (target labels are the last 30 columns)
+
 test.csv - the test set (you must predict 30 labels for each test set row)
+
 sample_submission.csv - a sample submission file in the correct format; column names are the 30 target labels
 
 # Evaluation Metric
