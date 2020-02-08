@@ -15,3 +15,5 @@ sample_submission.csv - a sample submission file in the correct format; column n
 
 # Evaluation Metric
 Submissions are evaluated on Spearman-rho score between the predicted classes and the observed targets.
+
+# LB Sore = 0.399
